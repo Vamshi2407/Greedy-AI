@@ -1,4 +1,3 @@
-# Greedy-AI
 
 #include <stdio.h>
 /* Greedy Algorithm */
